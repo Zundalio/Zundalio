@@ -13,5 +13,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-24292F?style=for-the-badge&logo=MySQL)
 ![Python](https://img.shields.io/badge/Python-24292F?style=for-the-badge&logo=Python)
 ![Jira](https://img.shields.io/badge/Jira-24292F?style=for-the-badge&logo=Jira&logoColor=1771EB)
-![Test IT](https://img.shields.io/badge/Test_IT-24292F?style=for-the-badge&logo=https://github.com/Zundalio/Zundalio/blob/main/assets/testit_logo_icon_blue.png)
+![Test IT](https://github.com/Zundalio/Zundalio/blob/main/assets/testit_logo_icon_blue%20(1).png)
 ![Bash](https://img.shields.io/badge/Bash-24292F?style=for-the-badge&logo=https://github.com/Zundalio/Zundalio/blob/main/assets/gratis-png-bash-shell-script-bourne-shell-scripting-lenguaje-unix-shell-shell.png)
