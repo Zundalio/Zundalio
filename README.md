@@ -7,7 +7,7 @@
 
 ## Инструменты
 ![Postman](https://img.shields.io/badge/Postman-24292F?style=for-the-badge&logo=Postman)
-![SouapUI](https://img.shields.io/badge/SouapUI-24292F?style=for-the-badge&logo=)
+![SouapUI](https://github.com/Zundalio/Zundalio/blob/main/assets/7206623.png)
 ![DevTools](https://img.shields.io/badge/DevTools-24292F?style=for-the-badge&logo=https://github.com/Zundalio/Zundalio/blob/main/assets/chrome-dev.512x512.png)
 ![Postgresql](https://img.shields.io/badge/postgresql-24292F?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-24292F?style=for-the-badge&logo=MySQL)
